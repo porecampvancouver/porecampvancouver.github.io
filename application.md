@@ -11,7 +11,7 @@ Places will be offered based on merit, but amongst equally qualified candidates,
 
 We also expect selected students to attend all five days of the course, and to be able to pay the workshop fees within two weeks of being accepted to PoreCamp.
 
-To apply, please complete the application form **here**. **The application deadline is 11:59pm Sunday, January 21, 2018.** All applicants will be notified on Monday, February 12. The 36 successful students will be offered places on the course and the remaining applicants will be assigned a waitlist number. Accepted applicants must confirm their registration and pay the workshop fee by noon, Wednesday February 28 or else their place will be offered to someone on the waitlist.
+To apply, please complete the application form [here](https://goo.gl/forms/a5LP7YX0VwlCLBID3). **The application deadline is 11:59pm Sunday, January 21, 2018.** All applicants will be notified on Monday, February 12. The 36 successful students will be offered places on the course and the remaining applicants will be assigned a waitlist number. Accepted applicants must confirm their registration and pay the workshop fee by noon, Wednesday February 28 or else their place will be offered to someone on the waitlist.
 
 Cancellations before 11:50pm on April 9 will receive a 50% refund of their workshop fee. Cancellations from April 10 onwards will forfeit the workshop fee. Cancellations will open places to waitlisted students; the waitlist will be kept active until Friday, May 4.
 
