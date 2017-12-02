@@ -1,6 +1,6 @@
-# PoreCamp Vancouver
-## May 7-11 1, 2018
-## The University of British Columbia
+<p align="center"><b><h1>PoreCamp Vancouver</h1></b></p>
+<p align="center"><b><h2>May 7-11, 2018</h2></b></p>
+<p align="center"><b><h2>The University of British Columbia</h2></b></p>
 
 ## What is PoreCamp Vancouver?
 PoreCamp Vancouver is the sixth edition of the [PoreCamp series](https://porecamp.github.io/), founded by Nick Loman, Matt Loose and Mick Watson in 2015. PoreCamp is a week-long training bootcamp based around Oxford Nanopore Technology (ONT)’s [MinION](https://nanoporetech.com/products/minion) sequencing system. The workshop will be a unique opportunity to get hands-on experience in generating and analyzing MinION data from some of the leading experts in the field – [Nick Loman](http://lab.loman.net/), [Josh Quick](http://lab.loman.net/), [Matt Loose](https://www.nottingham.ac.uk/life-sciences/people/matt.loose), [John Tyson](http://snutchlab.msl.ubc.ca/labmembers/), and [Jared Simpson](http://simpsonlab.github.io/) will join local hosts [Jennifer Gardy](http://www.spph.ubc.ca/person/jennifer-gardy/), [David Ng](http://popperfont.net/), [Robin Coope](http://www.bcgsc.ca/), and [Steve Pleasance](http://www.bcgsc.ca/) for five days of sequencing, bioinformatics, and general merriment.
