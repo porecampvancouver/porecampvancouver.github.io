@@ -1,9 +1,9 @@
 # Timetable
 
 Participants will work in three teams, which will be formed on Monday. On Tuesday, Wednesday, and Thursday, each team will spend the day at a different station:
-Library Prep: AMBL Teaching Laboratory
-Sequencing:  AMBL Teaching Laboratory
-Bioinformatics: MSL 101
+  * Library Prep will take place in the AMBL Teaching Laboratory
+  * Sequencing will also take place in the  AMBL Teaching Laboratory
+  * Bioinformatics will take place MSL 101
 
 **Monday, May 7**
   * 9:30-10:00am: Registration (MSL Lobby)
