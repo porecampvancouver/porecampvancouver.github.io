@@ -24,3 +24,5 @@ The programme and teaching materials for previous courses can be found at:
 
 During PoreCamp Vancouver, we will be sequencing multiple samples. Some of these will be provided by participants, while others will be prepared by the instructor team. Please do not count on PoreCamp as a source of data for your experiment and please do not sequence anything that is incredibly precious - if one of your samples is sequenced, it will be multiplexed with others on a run and you will not have a full flow cell’s worth of data. We cannot guarantee how much sequence data your sample will produce, and the sample will be used in its entirety - there will be none left. To streamline sequencing, please bring a sample with at least 1ug of extracted genomic DNA. We will not be sequencing metagenomic samples, nor human samples, during the workshop.
 
+**Please direct all questions about the workshop to [porecampvancouver@gmail.com](mailto:porecampvancouver@gmail.com)
+
