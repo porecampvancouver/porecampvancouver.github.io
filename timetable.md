@@ -3,7 +3,7 @@
 Participants will work in three teams, which will be formed on Monday. On Tuesday, Wednesday, and Thursday, each team will spend the day at a different station:
   * Library Prep will take place in the AMBL Teaching Laboratory
   * Sequencing will also take place in the  AMBL Teaching Laboratory
-  * Bioinformatics will take place MSL 101
+  * Bioinformatics will take place in MSL 101
 
 **Monday, May 7**
   * 9:30-10:00am: Registration (MSL Lobby)
@@ -35,7 +35,7 @@ Participants will work in three teams, which will be formed on Monday. On Tuesda
   * 8:00-9:00: Deploying a portable nanopore sequencing system, Josh Quick (MSL Theatre)
   * 9:00-9:30: Travel to the [Vancouver Aquarium](http://www.vanaqua.org) for our sequencing field trip 
   * 9:30-5:30: Sequencing at the Aquarium 
-  * 5:30: Closing party at the Aquarium (TBD)
+  * 5:30: Closing party at the Aquarium 
 
 **Key to locations:**
   * MSL Lobby: Michael Smith Laboratories Lobby (2185 East Mall)
