@@ -1,3 +1,5 @@
+[Home](index.md) | [Application & Fees](application.md) | [Timetable](timetable.md) | [Location, Accommodation, & Dining](location.md)
+
 # Location, Accommodation, and Dining
 
 ## Location
