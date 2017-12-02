@@ -1,3 +1,5 @@
+[Home](index.md) | [Application & Fees](application.md) | [Timetable](timetable.md) | [Location, Accommodation, & Dining](location.md)
+
 # Timetable
 
 Participants will work in three teams, which will be formed on Monday. On Tuesday, Wednesday, and Thursday, each team will spend the day at a different station:
