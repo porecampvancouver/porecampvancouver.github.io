@@ -1,3 +1,5 @@
+# Application and Workshop Fees
+
 To keep the workshop as personal as possible, we are limiting participation to 36 attendees. Each application will be reviewed by the instructor team, and we will select 36 students who will be offered a place on the course. There will be a waitlist in the event a selected student cancels and a place on the course opens up.
 
 In reviewing the applications, we will be looking for:
