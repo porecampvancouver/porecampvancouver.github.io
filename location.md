@@ -1,9 +1,3 @@
----
-layout: default
-title:  Welcome to PoreCamp Vancouver
----
-
-# {{ page.title }}
 # Location, Accommodation, and Dining
 
 PoreCamp Vancouver is taking place at the [Advanced Molecular Biology Laboratory (AMBL)](http://www.bioteach.ubc.ca/) at the [Michael Smith Laboratories](http://www.msl.ubc.ca/) at [the University of British Columbia](https://www.ubc.ca/). For a map to the campus and the location of the MSL building, click [here](http://maps.ubc.ca/PROD/index_detail.php?locat1=83). The building is unlocked and accessible during PoreCamp hours.
