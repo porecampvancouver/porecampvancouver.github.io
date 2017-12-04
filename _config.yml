@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: PoreCamp Vancouver
-description: A Hands-on MinION Sequencing Training Camp, May 7-11, 2018 in Vancouver, Canada
+redirect_to:
+  - https://porecamp.github.io/vancouver
